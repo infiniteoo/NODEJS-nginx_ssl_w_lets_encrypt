@@ -1,0 +1,23 @@
+{
+  "name": "NODEJS-nginx_ssl_w_lets_encrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infiniteoo/NODEJS-nginx_ssl_w_lets_encrypt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infiniteoo/NODEJS-nginx_ssl_w_lets_encrypt/issues"
+  },
+  "homepage": "https://github.com/infiniteoo/NODEJS-nginx_ssl_w_lets_encrypt#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
